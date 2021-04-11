@@ -1,1 +1,1 @@
-Write-Output "Arch is the best!"
+Write-Output "Hello, world!"
